@@ -1,0 +1,8 @@
+{
+  "name": "frontendmentor-io-bookmark-landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/remorandev/frontendmentor-io-bookmark-landing-page.git",
+  "author": "Roberto Moran <remorandev@gmail.com>",
+  "license": "MIT"
+}
